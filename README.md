@@ -1,4 +1,4 @@
-# Virtual Position Resector
+# Image Resector
 
 The **Virtual Position Resector** is a geolocation project that leverages surveying techniques to determine the geographical position of an image based on known reference points. Whether you're analyzing landscapes, historical photos, or remote areas, this tool empowers you to connect visual data with geographic coordinates.
 
